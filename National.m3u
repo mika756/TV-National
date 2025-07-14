@@ -1,6 +1,6 @@
 # TV INDONESIA SECTION
 
-#EXTINF:-1 tvg-id="Trans 7 - [Channel 110].id" tvg-logo="https://cdnjktbpid01.transvision.co.id/image/web/channel/4028c68574537fcd0174be45631158d9/2165ad80418941528715202210307fb6.jpg" group-title="TV Indonesia",TRANS 7
+#EXTINF:-1 tvg-id="Trans 7 - [Channel 110].id" tvg-logo="https://iili.io/JMp3Qls.png" group-title="TV Indonesia",TRANS 7
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

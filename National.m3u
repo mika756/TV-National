@@ -126,7 +126,7 @@ https://streamo.web.id/api/1/get/live/tv/channel/4.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://streamo.web.id/api/1/post/license/iptvsys/5
 #EXTINF:-1 tvg-id="SCTV.IPTV" tvg-name="SCTV.IPTV" group-title="TV INDONESIA" tvg-logo="https://iptvsystem.my.id/img/sctv.png",SCTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c68587f789fe018804f4bbb52813/manifest.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
 
 #EXTINF:-1 tvg-id="CNNIndonesia.IPTV" tvg-name="CNNIndonesia.IPTV" group-title="TV INDONESIA" tvg-logo="https://iptvsystem.my.id/img/cnnindonesia.png",CNN Indonesia

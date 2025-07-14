@@ -126,7 +126,7 @@ https://streamo.web.id/api/1/get/live/tv/channel/4.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://streamo.web.id/api/1/post/license/iptvsys/5
 #EXTINF:-1 tvg-id="SCTV.IPTV" tvg-name="SCTV.IPTV" group-title="TV INDONESIA" tvg-logo="https://iptvsystem.my.id/img/sctv.png",SCTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/100/4028c68587f789fe018804f4bbb52813/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="CNNIndonesia.IPTV" tvg-name="CNNIndonesia.IPTV" group-title="TV INDONESIA" tvg-logo="https://iptvsystem.my.id/img/cnnindonesia.png",CNN Indonesia
@@ -141,7 +141,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="ANTV.IPTV" tvg-name="ANTV.IPTV" group-title="TV INDONESIA" tvg-logo="https://iptvsystem.my.id/img/antv.png",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://atemeshield1-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
+http://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 
 
 #EXTINF:-1 tvg-id="KompasTv.IPTV" tvg-name="Kompastv.IPTV" group-title="TV INDONESIA" tvg-logo="https://iptvsystem.my.id/img/kompastv.png",Kompas TV

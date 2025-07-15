@@ -1,6 +1,6 @@
 # TV INDONESIA SECTION
 
-#EXTINF:-1 tvg-id="Trans 7 - [Channel 110].id" tvg-logo="https://iili.io/JMp3Qls.png" group-title="TV Indonesia",TRANS 7
+#EXTINF:-1 tvg-id="Trans 7 - [Channel 110].id" tvg-logo="https://iili.io/JMp3Qls.png" group-title="TV Indonesia",TRANS 7 TRASNSVISION
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -9,7 +9,7 @@
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="Trans TV - [Channel 87].id" tvg-logo="https://iptvsystem.my.id/img/transtv.png" group-title="TV Indonesia",TRANS TV
+#EXTINF:-1 tvg-id="Trans TV - [Channel 87].id" tvg-logo="https://iptvsystem.my.id/img/transtv.png" group-title="TV Indonesia",TRANS TV TRANSVISION
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
@@ -24,11 +24,11 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6
 #KODIPROP:inputstream.adaptive.license_key=764e726a234a435c87a82e4a1da6a69b:0de18199ebb3316e3aed8529e39542b7
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://iili.io/JMp3ZUG.png" group-title="TV INDONESIA", TRANS TV
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="Trans TV" tvg-logo="https://iili.io/JMp3ZUG.png" group-title="TV INDONESIA", TRANS TV VISION+
 https://fta4-cdn-flr.visionplus.id/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
 
-#EXTINF:-1 tvg-id="7" group-title="TV Indonesia" tvg-id="Trans7.id" tvg-logo="https://iili.io/JMp3Qls.png",TRANS 7
+#EXTINF:-1 tvg-id="7" group-title="TV Indonesia" tvg-id="Trans7.id" tvg-logo="https://iili.io/JMp3Qls.png",TRANS 7 INDIHOME
 https://cdn10jtedge.indihometv.com/atm/DASH/trans7/manifest.mpd
 
 

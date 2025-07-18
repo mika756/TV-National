@@ -173,8 +173,8 @@ KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
 #EXTINF:-1 tvg-id="Moji.IPTV" tvg-name="Moji.IPTV" group-title="TV INDONESIA" tvg-logo="https://iptvsystem.my.id/img/moji.png",Moji
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
 
 ## ENTERTAINMENT SECTION

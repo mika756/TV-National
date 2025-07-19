@@ -81,6 +81,34 @@ https://allcutv.rctiplus.id/gtv2023.m3u8
 #https://av-ch-cdn.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
 
 
+EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.postimg.cc/PJhxzfhS/RCTI.png" group-title="TV Indonesia",RCTI (R+)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/13bT4JpK/mnctv.png" group-title="TV Indonesia",MNCTV (R+)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d04y4S42/GTV.png" group-title="TV Indonesia",GTV (R+)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90SdQqyD/INews.png" group-title="TV Indonesia",INEWS (R+)
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+
+
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/

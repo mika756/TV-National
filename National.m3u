@@ -334,8 +334,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://codexgen.my.id/rombaktoken/play.mpd?token=bi4NUjeVas98nbCNYaw781IxamNDYm55djc3b2FDS3pSNHVjUjZQVGFacmJuVkNxY2xyVXpoVzNkQ2V5ZnZUQzljNWhXdnZKaHFyQW1GQjFwbXUxODZsb2xWUzFKRzZTNU5NajM4Z1JwV1NUTDJRT05penJBM3V4KzA5UHZmUWM3MDFYbCtDM0Y2KysyRTh2YkhYclhCancyZXNmZUcwQzNYQ0tzV2M4UGszSFU3SFBKUnFNam1FeXBqYXgxMENjQjVxWDVZUHFRZXQxQjZ3Y0pnTnBxM2ltRklRQk1WaTdCTXZOZU96cnp0b2dTNEJvaFFkRUpMZ2wwejdjVDFKdWQxUUtQdGRXdm81eVdrRG1vNmpES3A4NWl4QmFZbGVVNHB1c2lrQTJCc2FHNU1EdTh3dE54ekVwZU1zd1VVQktXWDZYd1lqRWEwWURlbWk2
-
+https://codexgen.my.id/rombaktoken/play.mpd
 
 #EXTINF:0 tvg-id="moonbug.id" tvg-name="Moonbug" tvg-logo="https://i.ibb.co/RTJfN5yp/20250702-041323.jpg" group-title="Kids", Moonbug (ID)
 #KODIPROP:inputstream.adaptive.manifest_type=dash

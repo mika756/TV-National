@@ -338,12 +338,16 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4
 ## KIDS SECTION
 
 
-#EXTINF:-1 group-title="Kids" tvg-id="boomerangsoutheastasia.us" tvg-logo="https://i.ibb.co/bjKzzLPK/20250702-040642.jpg",Cartoonito (ID)
+#EXTVLCOPT:http-referrer=https://www.cubmu.com/
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=955574ee2b674f0fbbad818fb384c233:51d2893619bdd062fb4c0cdaafefbf27
-https://codexgen.my.id/rombaktoken/play.mpd?token=CQ9ZOzDAR1U8uf%2BOEJS7JmYwRW5kdmhHQTRMMmZBUUtsVWlyU1ZiQ2w3VWZpZXE1RGhncExkaFVQT2ZIWmhXNG05WXBUZVFzMFRHbDk5R0p3TmtXbGk3Um5Lb1IvMWZRQjFEQ1Npa3VMRGZGSmR0ZnNmVU5jZzRzdHliNklZcjRiQUZ5Mk4yRlJrdzdnSVYzTkdJdHJ6MXdJS29GNzRxL1ZNUDRUdWV6dGxXeWh3OUVKRDFsYnNXdTVmS1VZYzh5clVzS2xkazN3U0NxRlBvMzVwRmNOTDhUUlJVbVpZUFNkdlVXVGllRGVoTXR5UTVodDVSbWRNV2dYN1QvaG5abVpZTU1TQWdZVXN4RGI3QWVSMkN0blhKRXpsZEgzYUY5YnlEYmhpNVRJVW5IRkhseVJjeUYwTUp2WGNjPQ%3D%3D
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTINF: -1 tvg-logo="https://i.imgur.com/Hg0he73.png" group-title="Kids", CARTOONITO
+#https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055f43ff37a5/manifest.mpd
+
 
 
 #EXTINF:-1 group-title="Kids" tvg-id="nickjrasia.sg" tvg-logo="https://i.ibb.co/ZpN9VGXK/20250702-042114.jpg",Nick Jr. Asia (ID)

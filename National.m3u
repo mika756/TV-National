@@ -255,6 +255,10 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/ind
 ## MOVIES SECTION
 
 
+#EXTINF:-1 tvg-id="STUDIO UNIVERSAL" tvg-logo="https://i.imgur.com/484iq4l.jpeg" group-title="Movies", STUDIO UNIVERSAL 
+https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
+
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=42
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -327,6 +331,15 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4
 
 ## KIDS SECTION
 
+
+#EXTINF:-1 group-title="Kids" tvg-id="boomerangsoutheastasia.us" tvg-logo="https://i.ibb.co/bjKzzLPK/20250702-040642.jpg",Cartoonito (ID)
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=955574ee2b674f0fbbad818fb384c233:51d2893619bdd062fb4c0cdaafefbf27
+https://codexgen.my.id/rombaktoken/play.mpd?token=CQ9ZOzDAR1U8uf%2BOEJS7JmYwRW5kdmhHQTRMMmZBUUtsVWlyU1ZiQ2w3VWZpZXE1RGhncExkaFVQT2ZIWmhXNG05WXBUZVFzMFRHbDk5R0p3TmtXbGk3Um5Lb1IvMWZRQjFEQ1Npa3VMRGZGSmR0ZnNmVU5jZzRzdHliNklZcjRiQUZ5Mk4yRlJrdzdnSVYzTkdJdHJ6MXdJS29GNzRxL1ZNUDRUdWV6dGxXeWh3OUVKRDFsYnNXdTVmS1VZYzh5clVzS2xkazN3U0NxRlBvMzVwRmNOTDhUUlJVbVpZUFNkdlVXVGllRGVoTXR5UTVodDVSbWRNV2dYN1QvaG5abVpZTU1TQWdZVXN4RGI3QWVSMkN0blhKRXpsZEgzYUY5YnlEYmhpNVRJVW5IRkhseVJjeUYwTUp2WGNjPQ%3D%3D
+
+
 #EXTINF:-1 group-title="Kids" tvg-id="nickjrasia.sg" tvg-logo="https://i.ibb.co/ZpN9VGXK/20250702-042114.jpg",Nick Jr. Asia (ID)
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -341,9 +354,7 @@ https://codexgen.my.id/rombaktoken/play.mpd?token=bi4NUjeVas98nbCNYaw781IxamNDYm
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://codexgen.my.id/rombaktoken/play.mpd??token=bXZxKSKWsAsP4WYlZbbaZmt2ci9uVUV0MGJrV3hWdTVwaml2SHdIM0lIMjR4NXIxS2t4R1hTS0lXTnBvZGZ5eGtManNXTG54dXVvYTRIU3M3cFVDN2xicm5LTUczemJaWHVDTjVRVDNCTFgvQkJoM3NaVnIraWtDeWJWdDk2UWJLR0FiV0FSSlQ2V3dORHZoZlVLd2wrOUJXaXBRZHQ2N3hkM2U4K1hTclgrWm00MDVYT3d1M2h5SzJManFWQ04rUWZMRlRSWThJdkJPR3JKdFcyWit1NXBEOXYyOWRNNU1KQWFBM3Q3VkdIckZENjZHSUZFRWsxUHQyZ2JteVF3dm5TUXNLbDRScDVaREZNaTBNOCtIdkNFNlI4NjBFNDBPVVhWL0lnPT0%3D
-
-
+https://codexgen.my.id/rombaktoken/play.mpd?token=bXZxKSKWsAsP4WYlZbbaZmt2ci9uVUV0MGJrV3hWdTVwaml2SHdIM0lIMjR4NXIxS2t4R1hTS0lXTnBvZGZ5eGtManNXTG54dXVvYTRIU3M3cFVDN2xicm5LTUczemJaWHVDTjVRVDNCTFgvQkJoM3NaVnIraWtDeWJWdDk2UWJLR0FiV0FSSlQ2V3dORHZoZlVLd2wrOUJXaXBRZHQ2N3hkM2U4K1hTclgrWm00MDVYT3d1M2h5SzJManFWQ04rUWZMRlRSWThJdkJPR3JKdFcyWit1NXBEOXYyOWRNNU1KQWFBM3Q3VkdIckZENjZHSUZFRWsxUHQyZ2JteVF3dm5TUXNLbDRScDVaREZNaTBNOCtIdkNFNlI4NjBFNDBPVVhWL0lnPT0%3D
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #EXTINF:-1 tvg-id="Fun Planet" tvg-name="Fun Planet" group-title="Kids" tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png" tvg-chno="109", Fun Planet

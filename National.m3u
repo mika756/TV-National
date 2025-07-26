@@ -202,7 +202,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv/
 #EXTINF:-1 tvg-id="BTV.id" tvg-name="BTV" tvg-logo="https://iptvsystem.my.id/img/btv.png" group-title="TV Indonesia", BTV
 https://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8?app_type=web&userid=lite&chname=BTV
 

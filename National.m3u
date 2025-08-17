@@ -217,6 +217,12 @@ https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
 
+#EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/moji.png" group-title="TV NASIONAL", MOJI VIDIO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://popmi.my.id/tes.m3u8?id=206
+
+
+
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="BTV.id" tvg-name="BTV" tvg-logo="https://iptvsystem.my.id/img/btv.png" group-title="TV NASIONAL", BTV
 https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8

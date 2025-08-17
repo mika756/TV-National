@@ -2,7 +2,8 @@
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-id="Trans7.id" tvg-logo="https://iptvsystem.my.id/img/trans7.png",TRANS 7 HD
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://why.biz.id/Iptv/oxygen.php?id=trans7
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191804.m3u8
+#https://why.biz.id/Iptv/oxygen.php?id=trans7
 
 #EXTINF:-1 tvg-id="TransTV HD" tvg-logo="https://iptvsystem.my.id/img/transtv.png" group-title="TV NASIONAL",TRANS TV HD
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2

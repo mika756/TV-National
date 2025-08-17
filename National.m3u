@@ -9,10 +9,9 @@ https://atemeshield1-voe.sysln.id/live/eds/Trans7HD/mpd/Trans7HD.mpd
 
 #EXTINF:-1 tvg-id="TransTV HD" tvg-logo="https://iptvsystem.my.id/img/transtv.png" group-title="TV NASIONAL",TRANS TV HD
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191805.m3u8
-#https://why.biz.id/Iptv/oxygen.php?id=transtv
-
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=203388a3ab9b4e0b99552f6669c4eea9:e43bc84dc73ee0e78b533dec7cd7b715
+https://atemecdnbalancer-voe.sysln.id/live/eds/TransTVHD/mpd/TransTVHD.mpd
 
 
 #EXTINF:-1 tvg-id="Trans 7 - [Channel 110].id" tvg-logo="https://iptvsystem.my.id/img/trans7.png" group-title="TV NASIONAL",TRANS 7 TRANSVISION

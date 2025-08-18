@@ -1,3 +1,4 @@
+#EXTM3U x-tvg-url="https://iptvsystem.my.id/epg" refresh="3600"
 # TV INDONESIA SECTION
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-id="Trans7.id" tvg-logo="https://iptvsystem.my.id/img/trans7.png",TRANS 7 HD

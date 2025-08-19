@@ -216,11 +216,11 @@ https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
 
-#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="TV NASIONAL",TVRI World
+#EXTINF:0 tvg-country="ID" tvg-logo="https://iptvsystem.my.id/img/tvri.png" group-title="TV NASIONAL",TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iqZldGa.jpg" group-title="TV NASIONAL",TVRI SPORT
+#EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/tvrisport.png" group-title="TV NASIONAL",TVRI SPORT
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 

@@ -292,7 +292,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
 ## MOVIES SECTION
 
 
-#EXTINF:-1 tvg-id="Rock Action" tvg-logo="https://www.dens.tv/images/channel-logo/44.jpg" group-title="Movies", ROCK Action
+#EXTINF:-1 tvg-id="Rock Action" tvg-logo="" group-title="Movies", Rock Action
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ROCK_Action

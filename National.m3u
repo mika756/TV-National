@@ -2,7 +2,7 @@
 # TV INDONESIA SECTION
 
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/956/49956-SNAPSHOT-l.png" group-title="TV INDONESIA", Trans 7 FM
+#EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/trans7.png" group-title="TV INDONESIA", TRANS 7 HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=16e50b43a8fe4f9d8ed63a436161a28b:aa556111c986ba164a582811fb0d8c30

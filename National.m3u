@@ -333,12 +333,6 @@ https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index
 
 
 
-#EXTVLCOPT:http-referrer=http://dens.tv/
-#EXTINF:-1 tvg-id="MyCinema" tvg-name="MyCinema" group-title="Movies" tvg-logo="https://iptvsystem.my.id/img/mycinema.png",My Cinema
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_HD
-
-
 
 #EXTVLCOPT:http-referrer=http://dens.tv/
 #EXTINF:-1 tvg-id="MyCinemaAsia" tvg-name="MyCinemaAsia" group-title="Movies" tvg-logo="https://iptvsystem.my.id/img/mycinemaasia.png",My Cinema Asia
@@ -385,6 +379,22 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
 
 
 ## KIDS SECTION
+
+
+#EXTINF:-1 tvg-country"ID" group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCrl9Eu-mXYcafw9lBgZ40VQ4uzS-h9N704SxSfHARQLUBKK-rw0bf9Olo&s=10",KidTV Indonesia
+#EXTVLCOPT:http-origin=https://www.youtube.com
+#EXTVLCOPT:http-referrer=https://www.youtube.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://why.biz.id/Iptv/youtubehlschannelid.php?id=UCDVwLvLnrORclfiG_FjBUjQ
+
+
+
+#EXTINF:-1 tvg-country"ID" group-title="Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYzk-if9QNzlLTZ5PnACt5JNkedTu0v7VzBGDEOnmEEKYxSTgQvdWsmxY&s=10",BabyBuss Indonesia
+#EXTVLCOPT:http-origin=https://www.youtube.com
+#EXTVLCOPT:http-referrer=https://www.youtube.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://why.biz.id/Iptv/youtubehlschannelid.php?id=UCpYye8D5fFMUPf9nSfgd4bA
+
 
 
 

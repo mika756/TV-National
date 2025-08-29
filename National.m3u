@@ -2063,10 +2063,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 https://dash2.antik.sk/stream/hisi_ngw/playlist_cbcs.mpd
 
 
-
-
-#EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0024/3336/brand.gif?itok=qou1UWIb" group-title="KNOWLEDGE & DOCUMENTARY",MEKKAH HD
-
 #EXTINF:-1 tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0024/3336/brand.gif?itok=qou1UWIb" group-title="KNOWLEDGE & DOCUMENTARY",MEKKAH HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8

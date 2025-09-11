@@ -133,7 +133,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 https://gasruktv.my.id/za/oxigen.m3u8?ch=mentaritv
 
 
-EXTINF:-1 group-title="TV NASIONAL" tvg-id="vtv.id" tvg-logo="https://warningfm.github.io/v3/img/sbt6Zwy.png",VTV
+#EXTINF:-1 group-title="TV NASIONAL" tvg-id="vtv.id" tvg-logo="https://warningfm.github.io/v3/img/sbt6Zwy.png",VTV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://gasruktv.my.id/za/oxigen.m3u8?ch=vtv
 

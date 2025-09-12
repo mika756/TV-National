@@ -196,7 +196,7 @@ http://103.179.182.117:6768/hls/41/41.m3u8
 #EXTINF:-1 group-title="MOVIES",AXN
 http://103.179.182.117:6768/hls/64/64.m3u8
 
-#EXTINF:-1 group-title="MOVIES",CHINEMA WORLD
+#EXTINF:-1 group-title="MOVIES",CINEMA WORLD
 http://103.179.182.117:6768/hls/67/67.m3u8
 
 #EXTINF:-1 group-title="MOVIES",CELESTIAL

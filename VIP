@@ -160,7 +160,7 @@ http://103.179.182.117:6768/hls/28/28.m3u8
 #EXTINF:-1 group-title="MOVIES",HBO SIGNATURE
 http://103.179.182.117:6768/hls/29/29.m3u8
 
-#EXTINF:-1 group-title="MOVIES",HBO FAMILLY
+#EXTINF:-1 group-title="MOVIES",HBO FAMILY
 http://103.179.182.117:6768/hls/30/30.m3u8
 
 #EXTINF:-1 group-title="MOVIES",BIOSKOP ID

@@ -20,7 +20,7 @@ http://103.179.182.117:6768/hls/51/51.m3u8
 http://103.179.182.117:6768/hls/54/54.m3u8
 
 #EXTINF:-1 group-title="TV",GTV
-http://103.179.182.117:6768/hls/58/58.m3u8
+http://103.179.182.117:6768/hls/57/57.m3u8
 
 #EXTINF:-1 group-title="TV",SCTV
 http://103.179.182.117:6768/hls/55/55.m3u8

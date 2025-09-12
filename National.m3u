@@ -2151,7 +2151,7 @@ http://103.179.182.117:6768/hls/55/55.m3u8
 #KODIPROP:inputstream.ffmpegdirect.program_number=350997
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #EXTINF:-1 tvg-logo="" group-title="VIP", ANTV
-http://103.179.182.117:6768/hls/45/45.m3u8 antv
+http://103.179.182.117:6768/hls/45/45.m3u8
 
 #EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
 #KODIPROP:inputstream=inputstream.ffmpegdirect

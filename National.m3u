@@ -2104,7 +2104,7 @@ http://103.179.182.117:6768/hls/19/19.m3u8
 #EXTINF:-1 group-title="VIP",KOMPAS TV
 http://103.179.182.117:6768/hls/53/53.m3u8
 
-#EXTINF:-1 group-title="VIP",CNN
+#EXTINF:-1 group-title="VIP" tvg-logo="https://iptvsystem.my.id/img/cnnindonesia.png",CNN
 http://103.179.182.117:6768/hls/59/59.m3u8
 
 #EXTINF:-1 group-title="VIP",CNBC

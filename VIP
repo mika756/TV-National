@@ -107,7 +107,7 @@ http://103.179.182.117:6768/hls/89/89.m3u8
 #EXTINF:-1 group-title="KIDS",HOREE!
 http://103.179.182.117:6768/hls/4/4.m3u8
 
-#EXTINF:-1 group-title="KIDS",CN
+#EXTINF:-1 group-title="KIDS",CARTOON NETWORK
 http://103.179.182.117:6768/hls/5/5.m3u8
 
 #EXTINF:-1 group-title="KIDS",CARTOONITO

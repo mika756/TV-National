@@ -49,7 +49,7 @@ http://103.179.182.117:6768/hls/53/53.m3u8
 #EXTINF:-1 group-title="TV",CNN
 http://103.179.182.117:6768/hls/59/59.m3u8
 
-#EXTINF:-1,CNBC
+#EXTINF:-1 group-title="TV",CNNCNBC
 http://103.179.182.117:6768/hls/58/58.m3u8
 
 #EXTINF:-1 group-title="TV",MDTV

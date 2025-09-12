@@ -1,131 +1,29 @@
 #EXTM3U x-tvg-url="https://iptvsystem.my.id/epg, https://warningfm.github.io/x1/epg/guide.xml.gz, https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia2.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml, https://www.open-epg.com/files/indonesia5.xml, https://www.open-epg.com/files/indonesia6.xml, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml, https://tinyurl.com/DrewLive002-epg" refresh="3600
 
 
-#EXTINF:-1 group-title="TV",VOLI 
-http://103.179.182.117:6768/hls/2/2.m3u8
-
-#EXTINF:-1 group-title="TV",JOWOCH
-http://103.179.182.117:6768/hls/3/3.m3u8
-
-#EXTINF:-1 group-title="TV",HOREE!
-http://103.179.182.117:6768/hls/4/4.m3u8
-
-#EXTINF:-1 group-title="TV",CN
-http://103.179.182.117:6768/hls/5/5.m3u8
-
-#EXTINF:-1 group-title="TV",CARTOONITO
-http://103.179.182.117:6768/hls/6/6.m3u8
-
-#EXTINF:-1 group-title="TV",DREAMWORK
-http://103.179.182.117:6768/hls/7/7.m3u8
-
-#EXTINF:-1 group-title="TV",ANIMAX
-http://103.179.182.117:6768/hls/8/8.m3u8
-
-#EXTINF:-1 group-title="TV",NICKELODEON
-http://103.179.182.117:6768/hls/9/9.m3u8
-
-#EXTINF:-1 group-title="TV",NICKJR
-http://103.179.182.117:6768/hls/10/10.m3u8
-
-#EXTINF:-1 group-title="TV",GARUDATV
-http://103.179.182.117:6768/hls/11/11.m3u8
-
-#EXTINF:-1 group-title="TV",ANIMAL PLANET
-http://103.179.182.117:6768/hls/12/12.m3u8
-
-#EXTINF:-1 group-title="TV",LIVEID
-http://103.179.182.117:6768/hls/13/13.m3u8
-
-#EXTINF:-1 group-title="TV",HISTORY
-http://103.179.182.117:6768/hls/14/14.m3u8
-
-#EXTINF:-1 group-title="TV",SPOTV1
-http://103.179.182.117:6768/hls/15/15.m3u8
-
-#EXTINF:-1 group-title="TV",FIGHT SPORTS
-http://103.179.182.117:6768/hls/16/16.m3u8
-
-#EXTINF:-1 group-title="TV",METROTV
-http://103.179.182.117:6768/hls/19/19.m3u8
-
-#EXTINF:-1 group-title="TV",MTV
-http://103.179.182.117:6768/hls/20/20.m3u8
-
-#EXTINF:-1 group-title="TV",CHAMPIONSTV 5
-http://103.179.182.117:6768/hls/21/21.m3u8
-
-#EXTINF:-1 group-title="TV",ALLPLAY
-http://103.179.182.117:6768/hls/23/23.m3u8
-
-#EXTINF:-1 group-title="TV",HORIZON
-http://103.179.182.117:6768/hls/24/24.m3u8
-
-#EXTINF:-1 group-title="TV",NBA
-http://103.179.182.117:6768/hls/25/25.m3u8
-
-#EXTINF:-1 group-title="TV",CINEMAX
-http://103.179.182.117:6768/hls/26/26.m3u8
-
-#EXTINF:-1 group-title="TV",HBO
-http://103.179.182.117:6768/hls/27/27.m3u8
-
-#EXTINF:-1 group-title="TV",HBO HITS
-http://103.179.182.117:6768/hls/28/28.m3u8
-
-#EXTINF:-1 group-title="TV",HBO SIGNATURE
-http://103.179.182.117:6768/hls/29/29.m3u8
-
-#EXTINF:-1 group-title="TV",HBO FAMILLY
-http://103.179.182.117:6768/hls/30/30.m3u8
-
-#EXTINF:-1 group-title="TV",BIOSKOP ID
-http://103.179.182.117:6768/hls/31/31.m3u8
-
-#EXTINF:-1 group-title="TV",ZBIOSKOP
-http://103.179.182.117:6768/hls/32/32.m3u8
-
-#EXTINF:-1 group-title="TV",FLIK
-http://103.179.182.117:6768/hls/33/33.m3u8
-
-#EXTINF:-1 group-title="TV",IMC
-http://103.179.182.117:6768/hls/34/34.m3u8
-
-#EXTINF:-1 group-title="TV",Channel 35
-http://103.179.182.117:6768/hls/35/35.m3u8
-
-#EXTINF:-1 group-title="TV",JTV
-http://103.179.182.117:6768/hls/36/36.m3u8
-
-#EXTINF:-1 group-title="TV",ONE
-http://103.179.182.117:6768/hls/37/37.m3u8
-
-#EXTINF:-1 group-title="TV",KIX
-http://103.179.182.117:6768/hls/38/38.m3u8
-
-#EXTINF:-1 group-title="TV",GALAXY
-http://103.179.182.117:6768/hls/39/39.m3u8
-
-#EXTINF:-1 group-title="TV",GALAXY PREMIUM
-http://103.179.182.117:6768/hls/40/40.m3u8
-
-#EXTINF:-1 group-title="TV",WBTV
-http://103.179.182.117:6768/hls/41/41.m3u8
-
 #EXTINF:-1 group-title="TV",TRANS7
 http://103.179.182.117:6768/hls/42/42.m3u8
 
 #EXTINF:-1 group-title="TV",TRANSTV
 http://103.179.182.117:6768/hls/43/43.m3u8
 
-#EXTINF:-1 group-title="TV",MDTV
-http://103.179.182.117:6768/hls/44/44.m3u8
+#EXTINF:-1 group-title="TV",INDOSIAR
+http://103.179.182.117:6768/hls/56/56.m3u8
 
 #EXTINF:-1 group-title="TV",ANTV
 http://103.179.182.117:6768/hls/45/45.m3u8
 
-#EXTINF:-1 group-title="TV",TVONE
-http://103.179.182.117:6768/hls/46/46.m3u8
+#EXTINF:-1 group-title="TV",RCTI
+http://103.179.182.117:6768/hls/51/51.m3u8
+
+#EXTINF:-1 group-title="TV",MNCTV
+http://103.179.182.117:6768/hls/54/54.m3u8
+
+#EXTINF:-1 group-title="TV",GTV
+http://103.179.182.117:6768/hls/58/58.m3u8
+
+#EXTINF:-1 group-title="TV",SCTV
+http://103.179.182.117:6768/hls/55/55.m3u8
 
 #EXTINF:-1 group-title="TV",VTV
 http://103.179.182.117:6768/hls/47/47.m3u8
@@ -133,74 +31,50 @@ http://103.179.182.117:6768/hls/47/47.m3u8
 #EXTINF:-1 group-title="TV",MENTARI
 http://103.179.182.117:6768/hls/48/48.m3u8
 
-#EXTINF:-1 group-title="TV",TVRI SPORT
-http://103.179.182.117:6768/hls/49/49.m3u8
-
 #EXTINF:-1 group-title="TV",MOJI
 http://103.179.182.117:6768/hls/50/50.m3u8
-
-#EXTINF:-1 group-title="TV",RCTI
-http://103.179.182.117:6768/hls/51/51.m3u8
 
 #EXTINF:-1 group-title="TV",INEWS
 http://103.179.182.117:6768/hls/52/52.m3u8
 
+#EXTINF:-1 group-title="TV",TVONE
+http://103.179.182.117:6768/hls/46/46.m3u8
+
+#EXTINF:-1 group-title="TV",METROTV
+http://103.179.182.117:6768/hls/19/19.m3u8
+
 #EXTINF:-1 group-title="TV",KOMPASTV
 http://103.179.182.117:6768/hls/53/53.m3u8
-
-#EXTINF:-1 group-title="TV",MNCTV
-http://103.179.182.117:6768/hls/54/54.m3u8
-
-#EXTINF:-1 group-title="TV",SCTV
-http://103.179.182.117:6768/hls/55/55.m3u8
-
-#EXTINF:-1 group-title="TV",INDOSIAR
-http://103.179.182.117:6768/hls/56/56.m3u8
-
-#EXTINF:-1 group-title="TV",GTV
-http://103.179.182.117:6768/hls/58/58.m3u8
 
 #EXTINF:-1 group-title="TV",CNN
 http://103.179.182.117:6768/hls/59/59.m3u8
 
-#EXTINF:-1 group-title="TV",WSPORT
-http://103.179.182.117:6768/hls/62/62.m3u8
+#EXTINF:-1,CNBC
+http://103.179.182.117:6768/hls/58/58.m3u8
+
+#EXTINF:-1 group-title="TV",MDTV
+http://103.179.182.117:6768/hls/44/44.m3u8
 
 #EXTINF:-1 group-title="TV",TVRI
 http://103.179.182.117:6768/hls/63/63.m3u8
 
-#EXTINF:-1 group-title="TV",AXN
-http://103.179.182.117:6768/hls/64/64.m3u8
+#EXTINF:-1 group-title="TV",LIVEID
+http://103.179.182.117:6768/hls/13/13.m3u8
 
-#EXTINF:-1 group-title="TV",DISCOVERY ASIA
-http://103.179.182.117:6768/hls/65/65.m3u8
+#EXTINF:-1 group-title="TV",MTV
+http://103.179.182.117:6768/hls/20/20.m3u8
 
-#EXTINF:-1 group-title="TV",CHAMPIONTV 1
-http://103.179.182.117:6768/hls/66/66.m3u8
+#EXTINF:-1 group-title="TV",GARUDATV
+http://103.179.182.117:6768/hls/11/11.m3u8
 
-#EXTINF:-1 group-title="TV",CHINEMA WORLD
-http://103.179.182.117:6768/hls/67/67.m3u8
+#EXTINF:-1 group-title="TV",JOWOCH
+http://103.179.182.117:6768/hls/3/3.m3u8
 
-#EXTINF:-1 group-title="TV",CELESTIAL
-http://103.179.182.117:6768/hls/68/68.m3u8
-
-#EXTINF:-1 group-title="TV",CU
-http://103.179.182.117:6768/hls/69/69.m3u8
-
-#EXTINF:-1 group-title="TV",TVN
-http://103.179.182.117:6768/hls/72/72.m3u8
-
-#EXTINF:-1 group-title="TV",TVN MOVIES
-http://103.179.182.117:6768/hls/73/73.m3u8
+#EXTINF:-1 group-title="TV",JTV
+http://103.179.182.117:6768/hls/36/36.m3u8
 
 #EXTINF:-1 group-title="TV",BALI TV
 http://103.179.182.117:6768/hls/74/74.m3u8
-
-#EXTINF:-1 group-title="TV",LOVE NATURE
-http://103.179.182.117:6768/hls/75/75.m3u8
-
-#EXTINF:-1 group-title="TV",MAXSTREAM
-http://103.179.182.117:6768/hls/76/76.m3u8
 
 #EXTINF:-1 group-title="TV",TV9
 http://103.179.182.117:6768/hls/77/77.m3u8
@@ -217,33 +91,165 @@ http://103.179.182.117:6768/hls/81/81.m3u8
 #EXTINF:-1 group-title="TV",MTATV
 http://103.179.182.117:6768/hls/82/82.m3u8
 
-#EXTINF:-1 group-title="TV",K+
-http://103.179.182.117:6768/hls/83/83.m3u8
-
 #EXTINF:-1 group-title="TV",HOPECHANNEL
 http://103.179.182.117:6768/hls/84/84.m3u8
-
-#EXTINF:-1 group-title="TV",SPOTV2
-http://103.179.182.117:6768/hls/86/86.m3u8
 
 #EXTINF:-1 group-title="TV",MUSIK ID
 http://103.179.182.117:6768/hls/87/87.m3u8
 
-#EXTINF:-1 group-title="TV",CHAMPIONSTV 2
-http://103.179.182.117:6768/hls/88/88.m3u8
-
-#EXTINF:-1 group-title="TV",MOONBUG
-http://103.179.182.117:6768/hls/89/89.m3u8
-
-#EXTINF:-1 group-title="TV",THRILL
-http://103.179.182.117:6768/hls/90/90.m3u8
-
-#EXTINF:-1 group-title="TV",CHINESE DRAMA
-http://103.179.182.117:6768/hls/92/92.m3u8
-
 #EXTINF:-1 group-title="TV",NTV
 http://103.179.182.117:6768/hls/93/93.m3u8
 
-#EXTINF:-1 group-title="TV",CHAMPIONSTV 6
+=======KIDS=======
+#EXTINF:-1 group-title="KIDS",MOONBUG
+http://103.179.182.117:6768/hls/89/89.m3u8
+
+#EXTINF:-1 group-title="KIDS",HOREE!
+http://103.179.182.117:6768/hls/4/4.m3u8
+
+#EXTINF:-1 group-title="KIDS",CN
+http://103.179.182.117:6768/hls/5/5.m3u8
+
+#EXTINF:-1 group-title="KIDS",CARTOONITO
+http://103.179.182.117:6768/hls/6/6.m3u8
+
+#EXTINF:-1 group-title="KIDS",DREAMWORK
+http://103.179.182.117:6768/hls/7/7.m3u8
+
+#EXTINF:-1 group-title="KIDS",ANIMAX
+http://103.179.182.117:6768/hls/8/8.m3u8
+
+#EXTINF:-1 group-title="KIDS",NICKELODEON
+http://103.179.182.117:6768/hls/9/9.m3u8
+
+#EXTINF:-1 group-title="KIDS",NICKJR
+http://103.179.182.117:6768/hls/10/10.m3u8
+
+=======KNOLEDGE=======
+#EXTINF:-1,CURIOSITY
+http://103.179.182.117:6768/hls/69/69.m3u8
+
+#EXTINF:-1 group-title="KNOLEDGE",HORIZON
+http://103.179.182.117:6768/hls/24/24.m3u8
+
+#EXTINF:-1 group-title="KNOLEDGE",DISCOVERY ASIA
+http://103.179.182.117:6768/hls/65/65.m3u8
+
+#EXTINF:-1 group-title="KNOLEDGE",LOVE NATURE
+http://103.179.182.117:6768/hls/75/75.m3u8
+
+#EXTINF:-1 group-title="KNOLEDGE",ANIMAL PLANET
+http://103.179.182.117:6768/hls/12/12.m3u8
+
+#EXTINF:-1 group-title="KNOLEDGE",HISTORY
+http://103.179.182.117:6768/hls/14/14.m3u8
+
+=======MOVIES=======
+#EXTINF:-1 group-title="MOVIES",ALLPLAY
+http://103.179.182.117:6768/hls/23/23.m3u8
+
+#EXTINF:-1 group-title="MOVIES",CINEMAX
+http://103.179.182.117:6768/hls/26/26.m3u8
+
+#EXTINF:-1 group-title="MOVIES",HBO
+http://103.179.182.117:6768/hls/27/27.m3u8
+
+#EXTINF:-1 group-title="MOVIES",HBO HITS
+http://103.179.182.117:6768/hls/28/28.m3u8
+
+#EXTINF:-1 group-title="MOVIES",HBO SIGNATURE
+http://103.179.182.117:6768/hls/29/29.m3u8
+
+#EXTINF:-1 group-title="MOVIES",HBO FAMILLY
+http://103.179.182.117:6768/hls/30/30.m3u8
+
+#EXTINF:-1 group-title="MOVIES",BIOSKOP ID
+http://103.179.182.117:6768/hls/31/31.m3u8
+
+#EXTINF:-1 group-title="MOVIES",ZBIOSKOP
+http://103.179.182.117:6768/hls/32/32.m3u8
+
+#EXTINF:-1,CHINEMA WORLD
+http://103.179.182.117:6768/hls/67/67.m3u8
+
+#EXTINF:-1 group-title="MOVIES",FLIK
+http://103.179.182.117:6768/hls/33/33.m3u8
+
+#EXTINF:-1 group-title="MOVIES",IMC
+http://103.179.182.117:6768/hls/34/34.m3u8
+
+#EXTINF:-1 group-title="MOVIES",ONE
+http://103.179.182.117:6768/hls/37/37.m3u8
+
+#EXTINF:-1 group-title="MOVIES",KIX
+http://103.179.182.117:6768/hls/38/38.m3u8
+
+#EXTINF:-1 group-title="MOVIES",GALAXY
+http://103.179.182.117:6768/hls/39/39.m3u8
+
+#EXTINF:-1 group-title="MOVIES",GALAXY PREMIUM
+http://103.179.182.117:6768/hls/40/40.m3u8
+
+#EXTINF:-1 group-title=MOVIES",WBTV
+http://103.179.182.117:6768/hls/41/41.m3u8
+
+#EXTINF:-1 group-title="MOVIES",AXN
+http://103.179.182.117:6768/hls/64/64.m3u8
+
+#EXTINF:-1 group-title="MOVIES",CHINEMA WORLD
+http://103.179.182.117:6768/hls/67/67.m3u8
+
+#EXTINF:-1 group-title="MOVIES",CELESTIAL
+http://103.179.182.117:6768/hls/68/68.m3u8
+
+#EXTINF:-1 group-title="MOVIES",TVN
+http://103.179.182.117:6768/hls/72/72.m3u8
+
+#EXTINF:-1 group-title="MOVIES",TVN MOVIES
+http://103.179.182.117:6768/hls/73/73.m3u8
+
+#EXTINF:-1 group-title="MOVIES",K+
+http://103.179.182.117:6768/hls/83/83.m3u8
+
+#EXTINF:-1 group-title="MOVIES",MAXSTREAM
+http://103.179.182.117:6768/hls/76/76.m3u8
+
+#EXTINF:-1 group-title="MOVIES",THRILL
+http://103.179.182.117:6768/hls/90/90.m3u8
+
+#EXTINF:-1 group-title="MOVIES",CHINESE DRAMA
+http://103.179.182.117:6768/hls/92/92.m3u8
+
+=======SPORTS=======
+#EXTINF:-1 group-title="SPORTS",TVRI SPORT
+http://103.179.182.117:6768/hls/49/49.m3u8
+
+#EXTINF:-1 group-title="SPORTS",VOLI 
+http://103.179.182.117:6768/hls/2/2.m3u8
+
+#EXTINF:-1 group-title="SPORTS",SPOTV1
+http://103.179.182.117:6768/hls/15/15.m3u8
+
+#EXTINF:-1 group-title="SPORTS",SPOTV2
+http://103.179.182.117:6768/hls/86/86.m3u8
+
+#EXTINF:-1 group-title="SPORTS",FIGHT SPORTS
+http://103.179.182.117:6768/hls/16/16.m3u8
+
+#EXTINF:-1 group-title="SPORTS",CHAMPIONTV 1
+http://103.179.182.117:6768/hls/66/66.m3u8
+
+#EXTINF:-1 group-title="SPORTS",CHAMPIONSTV 2
+http://103.179.182.117:6768/hls/88/88.m3u8
+
+#EXTINF:-1 group-title="SPORTS",CHAMPIONSTV 5
+http://103.179.182.117:6768/hls/21/21.m3u8
+
+#EXTINF:-1 group-title="SPORTS",CHAMPIONSTV 6
 http://103.179.182.117:6768/hls/94/94.m3u8
 
+#EXTINF:-1 group-title="SPORTS",NBA
+http://103.179.182.117:6768/hls/25/25.m3u8
+
+#EXTINF:-1 group-title="SPORTS",WSPORT
+http://103.179.182.117:6768/hls/62/62.m3u8

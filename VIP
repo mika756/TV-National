@@ -50,7 +50,7 @@ http://103.179.182.117:6768/hls/53/53.m3u8
 http://103.179.182.117:6768/hls/59/59.m3u8
 
 #EXTINF:-1 group-title="TV",CNBC
-http://103.179.182.117:6768/hls/58/58.m3u8
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="TV",MDTV
 http://103.179.182.117:6768/hls/44/44.m3u8

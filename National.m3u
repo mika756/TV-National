@@ -2086,7 +2086,7 @@ http://103.179.182.117:6768/hls/55/55.m3u8
 #EXTINF:-1 group-title="VIP" tvg-logo="https://warningfm.github.io/v3/img/sbt6Zwy.png",VTV
 http://103.179.182.117:6768/hls/47/47.m3u8
 
-#EXTINF:-1 group-title="VIP",MENTARI
+#EXTINF:-1 group-title="VIP" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/mentaritv.png?raw=true,MENTARI
 http://103.179.182.117:6768/hls/48/48.m3u8
 
 #EXTINF:-1 group-title="VIP",MOJI

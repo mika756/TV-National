@@ -190,7 +190,7 @@ http://103.179.182.117:6768/hls/39/39.m3u8
 #EXTINF:-1 group-title="MOVIES",GALAXY PREMIUM
 http://103.179.182.117:6768/hls/40/40.m3u8
 
-#EXTINF:-1 group-title=MOVIES",WBTV
+#EXTINF:-1 group-title="MOVIES",WBTV
 http://103.179.182.117:6768/hls/41/41.m3u8
 
 #EXTINF:-1 group-title="MOVIES",AXN

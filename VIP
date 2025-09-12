@@ -146,9 +146,6 @@ http://103.179.182.117:6768/hls/14/14.m3u8
 
 =======MOVIES=======
 
-#EXTINF:-1 group-title="MOVIES",ALLPLAY
-http://103.179.182.117:6768/hls/23/23.m3u8
-
 #EXTINF:-1 group-title="MOVIES",CINEMAX
 http://103.179.182.117:6768/hls/26/26.m3u8
 

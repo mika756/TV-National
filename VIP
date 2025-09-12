@@ -1,5 +1,4 @@
-#EXTM3U x-tvg-url="https://iptvsystem.my.id/epg" refresh="3600"
-
+#EXTM3U 
 
 #EXTINF:-1 group-title="TV",TRANS7
 http://103.179.182.117:6768/hls/42/42.m3u8

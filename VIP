@@ -126,7 +126,7 @@ http://103.179.182.117:6768/hls/9/9.m3u8
 http://103.179.182.117:6768/hls/10/10.m3u8
 
 =======KNOLEDGE=======
-#EXTINF:-1,CURIOSITY
+#EXTINF:-1 group-title="KNOLEDGE",CURIOSITY
 http://103.179.182.117:6768/hls/69/69.m3u8
 
 #EXTINF:-1 group-title="KNOLEDGE",HORIZON

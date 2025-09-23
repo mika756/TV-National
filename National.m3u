@@ -207,7 +207,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://iptvsystem.my.id/img/antv.png" group-title="TV NASIONAL",ANTV 
-https://cdn10jtedge.indihometv.com/atm/DASH/ANTV/manifest.mpd
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 
 
 #EXTINF:-1 tvg-id="17" tvg-logo="https://iptvsystem.my.id/img/kompastv.png" group-title="TV NASIONAL", KOMPAS TV

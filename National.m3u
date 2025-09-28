@@ -145,9 +145,9 @@ https://gooo.blog/opix/genx.m3u8?id=vtv&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.program_number=350997
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+http://103.66.62.83:8000/play/a069/index.m3u8
 https://khano.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
 http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
-http://103.66.62.83:8000/play/a069/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Indosiar.IPTV" tvg-name="Indosiar.IPTV" tvg-logo="https://iptvsystem.my.id/img/indosiar.png" group-title="TV NASIONAL", INDOSIAR VIDIO

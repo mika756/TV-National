@@ -160,7 +160,8 @@ http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+#https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+http://103.153.246.42:4022/udp/239.2.2.28:3000
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0

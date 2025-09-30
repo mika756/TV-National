@@ -302,11 +302,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TvNHD/mpd/TvNHD.mpd
 https://atemeshield1-voe.sysln.id/live/eds/HitsHD/mpd/HitsHD.mpd
 
 
-#EXTINF:-1 tvg-id="HITSMOVIES" tvg-url="" group-title="MOVIES",HitsMOVIES
+#EXTINF:-1 tvg-id="HITSMOVIES" tvg-url="" group-title="MOVIES",Hits Movies
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=12a34fccac944a19a14101a9009dae05:2d1543668411b31aec7269d889d4821c
-https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMOVIESHD/mpd/HitsMOVIESHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mpd/HitsMoviesHD.mpd
 
 
 #EXTINF:-1 tvg-id="HITSNow" tvg-url="" group-title="MOVIES",Hits Now

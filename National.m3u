@@ -95,7 +95,7 @@ https://liveplus.rctiplus.id/RTMP-IN-avc1_3500000=8-mp4a_128000=2.m3u8
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 #https://allcutv.rctiplus.id/mnctv2023.m3u8
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 
 #EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/gtv.png" group-title="TV NASIONAL",GTV (R+)
@@ -103,7 +103,7 @@ https://liveplus.rctiplus.id/RTMP-IN-avc1_3500000=8-mp4a_128000=2.m3u8
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 #https://allcutv.rctiplus.id/gtv2023.m3u8
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 
 #EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/inews.png" group-title="TV NASIONAL",INEWS (R+)
@@ -111,7 +111,7 @@ https://liveplus.rctiplus.id/RTMP-IN-avc1_3500000=8-mp4a_128000=2.m3u8
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 #https://allcutv.rctiplus.id/inews2023.m3u8
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 
 #EXTINF:-1 tvg-id="Lokal" tvg-logo="https://raw.githubusercontent.com/riotryulianto/iptv-playlists/refs/heads/main/icons/mentaritv.png" group-title="TV NASIONAL",MENTARI

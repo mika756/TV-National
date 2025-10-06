@@ -620,21 +620,20 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 https://sweet-night-1d1d.worst.workers.dev/?id=9353&type=dash
 
 
-#EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTk1NDUxMjUsImV4cCI6MTc1OTU4ODMyNSwiZGF0YSI6eyJjbGllbnRfaXAiOiIxODIuOS4yLjc1In19.GU07rrepzERtAxFcraoV4YfU3ndc6vLP-58Q0ZVeI8A", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTk1NDUxMjUsImV4cCI6MTc1OTU4ODMyNSwiZGF0YSI6eyJjbGllbnRfaXAiOiIxODIuOS4yLjc1In19.gRwoU3HeFwRFBB2Ov3-gNDu1yMC8EKmRbID3zSm8M2U"}
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://gooo.blog/ck/telegram?cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXlpZCI6IjMxOTdmN2Y1MDg2YzQzMTVhZjJiN2E5NGJjOTIwMWNiIiwia2V5IjoiMTc0NjJhNzQ3MzlhZTBkOTg1NTcwNWZmYzJjMGUxYjUiLCJleHAiOjE3NTk1ODgzMjV9.ovVmFlBNHVXWszGaAP2yIKaczSynaXnPtm_f88vecbM
 #EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV" group-title="SPORTS" tvg-logo="https://iptvsystem.my.id/img/spotv.png",SPOTV 
-https://gooo.blog/ck/andaikautau.mpd?cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwczovL2QzYjB2N2ZnZ3U1endtLmNsb3VkZnJvbnQubmV0L291dC92MS9iNDgxNGFlOTNjYTg0ZGQzYmI1YjBhZmY3NmNhMjYzZi9pbmRleC5tcGQiLCJleHAiOjE3NTk1ODgzMjV9.IXBf70Rbp84eAAps3pLJ2gLF_EbqVs15D5jLs2QBq78
-
-#EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTk1NDUxMjUsImV4cCI6MTc1OTU4ODMyNSwiZGF0YSI6eyJjbGllbnRfaXAiOiIxODIuOS4yLjc1In19.GU07rrepzERtAxFcraoV4YfU3ndc6vLP-58Q0ZVeI8A", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTk1NDUxMjUsImV4cCI6MTc1OTU4ODMyNSwiZGF0YSI6eyJjbGllbnRfaXAiOiIxODIuOS4yLjc1In19.gRwoU3HeFwRFBB2Ov3-gNDu1yMC8EKmRbID3zSm8M2U"}
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://gooo.blog/ck/telegram?cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJrZXlpZCI6IjE1MzlmMDQzMjQ5ZTQxM2Q5MTkwNjAzNmYzMDU4MzFlIiwia2V5IjoiNjcxZTI0ZmQ4ZDIzNGM3ZjM4ZDg1MDU1ODE1ZjkwMmEiLCJleHAiOjE3NTk1ODgzMjV9.2WnQa4Z_wTcMkCrRP_HUyHHQw5rgVhgzLgG9Y-Jo9g8
+#KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
+
+
 #EXTINF:-1 tvg-id="SPOTV2" tvg-name="SPOTV2" group-title="SPORTS" tvg-logo="https://iptvsystem.my.id/img/spotv.png",SPOTV 2
-https://gooo.blog/ck/andaikautau.mpd?cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwczovL2QydGp5cHh4eTc2OWZuLmNsb3VkZnJvbnQubmV0L291dC92MS80NmQ5Y2YzOWI5YTg0MTgzYjhkNTAyMmFjOGY0YmM0MS9pbmRleC5tcGQiLCJleHAiOjE3NTk1ODgzMjV9.iRIjH0cSO8ZeW_X1y7jIn7StOQBFUGoqOx3Vbpl20uk
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
+https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
 
 

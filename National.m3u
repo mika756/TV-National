@@ -22,7 +22,7 @@ https://atemeshield1-voe.sysln.id/live/eds/Trans7HD/mpd/Trans7HD.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://bewe.biz.id/khap.drm?jangan=4c301476c97dd066393385502c583942b6cc9ffc46af95437429adf7a70a6762&dimaling=1759007997
+#KODIPROP:inputstream.adaptive.license_key=https://bewe.biz.id/khap.drm?jangan=cb420764984f243f3db800018707552fd67581941db75791d581117e198a51ba&dimaling=1760187105
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
 

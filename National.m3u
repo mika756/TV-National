@@ -93,22 +93,19 @@ https://liveplus.rctiplus.id/RTMP-IN-avc1_3500000=8-mp4a_128000=2.m3u8
 #EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/mnctv.png" group-title="TV NASIONAL",MNCTV (R+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
-https://shorturl.at/6aW1T
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 
 #EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/gtv.png" group-title="TV NASIONAL",GTV (R+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
-https://shorturl.at/snTrC
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 
 #EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/inews.png" group-title="TV NASIONAL",INEWS (R+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-#https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
-https://short-url.org/1cYH0
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 
 #EXTINF:-1 tvg-id="Lokal" tvg-logo="https://raw.githubusercontent.com/riotryulianto/iptv-playlists/refs/heads/main/icons/mentaritv.png" group-title="TV NASIONAL",MENTARI

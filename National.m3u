@@ -140,7 +140,7 @@ http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
 
 
 #EXTINF:-1 tvg-id="Indosiar.IPTV" tvg-name="Indosiar.IPTV" tvg-logo="https://iptvsystem.my.id/img/indosiar.png" group-title="TV NASIONAL", INDOSIAR HD
-https://lep.semar.my.id/ambil?id=idigital.m3u8&auth=idgtlsemar25
+https://dickgital.semar.my.id/fetch?id=idigital.m3u8&auth=idgtlsemar25
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
@@ -158,7 +158,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 
 
 #EXTINF:-1 tvg-id="SCTV.IPTV" tvg-name="SCTV.IPTV" group-title="TV NASIONAL" tvg-logo="https://iptvsystem.my.id/img/sctv.png",SCTV DIGITAL
-https://lep.semar.my.id/ambil?id=sdigital.m3u8&auth=sdgtlsemar25&url=up
+https://dickgital.semar.my.id/fetch?id=sdigital.m3u8&auth=sdgtlsemar25&url=up
 
 
 #EXTINF:-1 tvg-id="CNNIndonesia.IPTV" tvg-name="CNNIndonesia.IPTV" group-title="TV NASIONAL" tvg-logo="https://iptvsystem.my.id/img/cnnindonesia.png",CNN Indonesia
@@ -204,7 +204,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/590642f0a31efa4.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/moji.png" group-title="TV NASIONAL", MOJI
-https://lep.semar.my.id/ambil?id=mlg.m3u8&auth=mlgsemar25
+https://dickgital.semar.my.id/fetch?id=mlg.m3u8&auth=mlgsemar25
 
 
 #EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/moji.png" group-title="TV NASIONAL", MOJI DIGITAL

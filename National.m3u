@@ -129,6 +129,10 @@ https://khano.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
 http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
 
 
+#EXTINF:-1 tvg-id="Indosiar.IPTV" tvg-name="Indosiar.IPTV" tvg-logo="https://iptvsystem.my.id/img/indosiar.png" group-title="TV NASIONAL", INDOSIAR HD
+https://dickgital.semar.my.id/fetch?id=idigital.m3u8&auth=idgtlsemar25
+
+
 #EXTINF:-1 tvg-id="Indosiar.IPTV" tvg-name="Indosiar.IPTV" tvg-logo="https://iptvsystem.my.id/img/indosiar.png" group-title="TV NASIONAL", INDOSIAR DIGITAL
 #EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -137,10 +141,6 @@ http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 http://103.66.62.83:8000/play/a069/index.m3u8
 http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
-
-
-#EXTINF:-1 tvg-id="Indosiar.IPTV" tvg-name="Indosiar.IPTV" tvg-logo="https://iptvsystem.my.id/img/indosiar.png" group-title="TV NASIONAL", INDOSIAR HD
-https://dickgital.semar.my.id/fetch?id=idigital.m3u8&auth=idgtlsemar25
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0

@@ -2,6 +2,12 @@
 
 # TV INDONESIA SECTION
 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=47a7ef37081a4ab5937c94272d9988b6:e637e6be1231e14a670120b23dae1a0b
+#EXTINF:-1 tvg-id="HBO Hits.id" tvg-name="HBO Hits" tvg-logo="https://mimipipi22.github.io/logo/movies/hbohits.jpg" group-title="test",HBO
+https://atemecdnbalancer-voe.sysln.id/live/eds/HBO/mpd/HBO.mpd
+
 
 #EXTINF:-1 tvg-id="Trans7.my.id" tvg-name="Trans 7" tvg-logo="https://iptvsystem.my.id/img/trans7.png" group-title="TV NASIONAL", TRANS 7
 http://103.66.62.83:8000/play/a022/index.m3u8

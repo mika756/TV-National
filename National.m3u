@@ -4,7 +4,7 @@
 
 
 #EXTINF:-1 tvg-id="Trans7.my.id" tvg-name="Trans 7" tvg-logo="https://iptvsystem.my.id/img/trans7.png" group-title="TV NASIONAL", TRANS 7
-#http://103.66.62.83:8000/play/a022/index.m3u8
+http://103.66.62.83:8000/play/a022/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Trans7.my.id tvg-logo="https://iptvsystem.my.id/img/trans7.png" group-title="TV NASIONAL", TRANS 7 HD

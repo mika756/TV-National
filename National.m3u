@@ -159,11 +159,9 @@ http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
 #EXTINF:-1 tvg-id="MDTV.id" group-title="TV NASIONAL" tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://iptvsystem.my.id/img/mdtv.png",MDTV
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://streamo.web.id/api/1/post/license/iptvsys/5
+
 #EXTINF:-1 tvg-id="SCTV.IPTV" tvg-name="SCTV.IPTV" group-title="TV NASIONAL" tvg-logo="https://iptvsystem.my.id/img/sctv.png",SCTV
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/sctv/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="SCTV.IPTV" tvg-name="SCTV.IPTV" group-title="TV NASIONAL" tvg-logo="https://iptvsystem.my.id/img/sctv.png",SCTV DIGITAL

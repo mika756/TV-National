@@ -157,8 +157,7 @@ https://dickgital.semar.my.id/fetch?id=idigital.m3u8&auth=idgtlsemar25
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.program_number=350997
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-http://103.66.62.83:8000/play/a069/index.m3u8
-http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
+http://aromatv.co:80/Enjy3637/4JFEBAs359/444139
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
@@ -223,8 +222,7 @@ http://aromatv.co:80/Enjy3637/4JFEBAs359/444150
 
 
 #EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/moji.png" group-title="TV NASIONAL", MOJI DIGITAL
-#http://103.179.182.117:6768/hls/50/50.m3u8
-http://103.66.62.83:8000/play/a065/index.m3u8
+#http://103.66.62.83:8000/play/a065/index.m3u8
 
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1

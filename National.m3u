@@ -226,7 +226,7 @@ http://khano.nng.cloudns.us/live/m3u8/id/590642f0a31efa4.m3u8
 
 #EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/moji.png" group-title="TV NASIONAL", MOJI 
 #KODIPROP:mimetype=application/dash+xml
-https://tokenized-ottbridge-prod.streamized.net/live/eds/MOJIOChannel/dash/MOJIOChannel.mpd?hdntl=exp=1762522974~id=allUsers~data=hdntl~hmac=fb2fad35b20f512885886dfbc5fc5e6a1edd0bd1dca9b49cc338c4ee1ff19586
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/23
 
 
 #EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/moji.png" group-title="TV NASIONAL", MOJI DIGITAL

@@ -1,246 +1,164 @@
-#EXTM3U x-tvg-url="https://iptvsystem.my.id/epg" refresh="3600"
-
-#EXTINF:-1 group-title="TV",TRANS7
-http://103.179.182.117:6768/hls/42/42.m3u8
-
-#EXTINF:-1 group-title="TV",TRANSTV
-http://103.179.182.117:6768/hls/43/43.m3u8
-
-#EXTINF:-1 group-title="TV",INDOSIAR
-http://103.179.182.117:6768/hls/56/56.m3u8
-
-#EXTINF:-1 group-title="TV",ANTV
-http://103.179.182.117:6768/hls/45/45.m3u8
-
-#EXTINF:-1 group-title="TV",RCTI
-http://103.179.182.117:6768/hls/51/51.m3u8
-
-#EXTINF:-1 group-title="TV",MNCTV
-http://103.179.182.117:6768/hls/54/54.m3u8
-
-#EXTINF:-1 group-title="TV",GTV
-http://103.179.182.117:6768/hls/57/57.m3u8
-
-#EXTINF:-1 group-title="TV",SCTV
-http://103.179.182.117:6768/hls/55/55.m3u8
-
-#EXTINF:-1 group-title="TV",VTV
-http://103.179.182.117:6768/hls/47/47.m3u8
-
-#EXTINF:-1 group-title="TV",MENTARI
-http://103.179.182.117:6768/hls/48/48.m3u8
-
-#EXTINF:-1 group-title="TV",MOJI
-http://103.179.182.117:6768/hls/50/50.m3u8
-
-#EXTINF:-1 group-title="TV",INEWS
-http://103.179.182.117:6768/hls/52/52.m3u8
-
-#EXTINF:-1 group-title="TV",TVONE
-http://103.179.182.117:6768/hls/46/46.m3u8
-
-#EXTINF:-1 group-title="TV",METROTV
-http://103.179.182.117:6768/hls/19/19.m3u8
-
-#EXTINF:-1 group-title="TV",KOMPASTV
-http://103.179.182.117:6768/hls/53/53.m3u8
-
-#EXTINF:-1 group-title="TV",CNN
-http://103.179.182.117:6768/hls/59/59.m3u8
-
-#EXTINF:-1 group-title="TV",CNBC
-https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="TV",MDTV
-http://103.179.182.117:6768/hls/44/44.m3u8
-
-#EXTINF:-1 group-title="TV",TVRI
-http://103.179.182.117:6768/hls/63/63.m3u8
-
-#EXTINF:-1 group-title="TV",LIVEID
-http://103.179.182.117:6768/hls/13/13.m3u8
-
-#EXTINF:-1 group-title="TV",MTV
-http://103.179.182.117:6768/hls/20/20.m3u8
-
-#EXTINF:-1 group-title="TV",GARUDATV
-http://103.179.182.117:6768/hls/11/11.m3u8
-
-#EXTINF:-1 group-title="TV",JOWOCH
-http://103.179.182.117:6768/hls/3/3.m3u8
-
-#EXTINF:-1 group-title="TV",JTV
-http://103.179.182.117:6768/hls/36/36.m3u8
-
-#EXTINF:-1 group-title="TV",BALI TV
-http://103.179.182.117:6768/hls/74/74.m3u8
-
-#EXTINF:-1 group-title="TV",TV9
-http://103.179.182.117:6768/hls/77/77.m3u8
-
-#EXTINF:-1 group-title="TV",TVMU
-http://103.179.182.117:6768/hls/78/78.m3u8
-
-#EXTINF:-1 group-title="TV",MUITV
-http://103.179.182.117:6768/hls/79/79.m3u8
-
-#EXTINF:-1 group-title="TV",DUNIA LAIN
-http://103.179.182.117:6768/hls/81/81.m3u8
-
-#EXTINF:-1 group-title="TV",MTATV
-http://103.179.182.117:6768/hls/82/82.m3u8
-
-#EXTINF:-1 group-title="TV",HOPECHANNEL
-http://103.179.182.117:6768/hls/84/84.m3u8
-
-#EXTINF:-1 group-title="TV",MUSIK ID
-http://103.179.182.117:6768/hls/87/87.m3u8
-
-#EXTINF:-1 group-title="TV",NTV
-http://103.179.182.117:6768/hls/93/93.m3u8
-
-=======KIDS=======
-#EXTINF:-1 group-title="KIDS",MOONBUG
-http://103.179.182.117:6768/hls/89/89.m3u8
-
-#EXTINF:-1 group-title="KIDS",HOREE
-http://103.179.182.117:6768/hls/4/4.m3u8
-
-#EXTINF:-1 group-title="KIDS",CARTOON NETWORK
-http://103.179.182.117:6768/hls/5/5.m3u8
-
-#EXTINF:-1 group-title="KIDS",CARTOONITO
-http://103.179.182.117:6768/hls/6/6.m3u8
-
-#EXTINF:-1 group-title="KIDS",DREAMWORK
-http://103.179.182.117:6768/hls/7/7.m3u8
-
-#EXTINF:-1 group-title="KIDS",ANIMAX
-http://103.179.182.117:6768/hls/8/8.m3u8
-
-#EXTINF:-1 group-title="KIDS",NICKELODEON
-http://103.179.182.117:6768/hls/9/9.m3u8
-
-#EXTINF:-1 group-title="KIDS",NICKJR
-http://103.179.182.117:6768/hls/10/10.m3u8
-
-=======KNOLEDGE=======
-#EXTINF:-1 group-title="KNOLEDGE",CURIOSITY
-http://103.179.182.117:6768/hls/69/69.m3u8
-
-#EXTINF:-1 group-title="KNOLEDGE",HORIZON
-http://103.179.182.117:6768/hls/24/24.m3u8
-
-#EXTINF:-1 group-title="KNOLEDGE",DISCOVERY ASIA
-http://103.179.182.117:6768/hls/65/65.m3u8
-
-#EXTINF:-1 group-title="KNOLEDGE",LOVE NATURE
-http://103.179.182.117:6768/hls/75/75.m3u8
-
-#EXTINF:-1 group-title="KNOLEDGE",ANIMAL PLANET
-http://103.179.182.117:6768/hls/12/12.m3u8
-
-#EXTINF:-1 group-title="KNOLEDGE",HISTORY
-http://103.179.182.117:6768/hls/14/14.m3u8
-
-=======MOVIES=======
-
-#EXTINF:-1 group-title="MOVIES",CINEMAX
-http://103.179.182.117:6768/hls/26/26.m3u8
-
-#EXTINF:-1 group-title="MOVIES",HBO
-http://103.179.182.117:6768/hls/27/27.m3u8
-
-#EXTINF:-1 group-title="MOVIES",HBO HITS
-http://103.179.182.117:6768/hls/28/28.m3u8
-
-#EXTINF:-1 group-title="MOVIES",HBO SIGNATURE
-http://103.179.182.117:6768/hls/29/29.m3u8
-
-#EXTINF:-1 group-title="MOVIES",HBO FAMILY
-http://103.179.182.117:6768/hls/30/30.m3u8
-
-#EXTINF:-1 group-title="MOVIES"CINEMAWORLD
-http://103.179.182.117:6768/hls/67/67.m3u8
-
-#EXTINF:-1 group-title="MOVIES",FLIK
-http://103.179.182.117:6768/hls/33/33.m3u8
-
-#EXTINF:-1 group-title="MOVIES",IMC
-http://103.179.182.117:6768/hls/34/34.m3u8
-
-#EXTINF:-1 group-title="MOVIES",ONE
-http://103.179.182.117:6768/hls/37/37.m3u8
-
-#EXTINF:-1 group-title="MOVIES",KIX
-http://103.179.182.117:6768/hls/38/38.m3u8
-
-#EXTINF:-1 group-title="MOVIES",GALAXY
-http://103.179.182.117:6768/hls/39/39.m3u8
-
-#EXTINF:-1 group-title="MOVIES",GALAXY PREMIUM
-http://103.179.182.117:6768/hls/40/40.m3u8
-
-#EXTINF:-1 group-title="MOVIES",WBTV
-http://103.179.182.117:6768/hls/41/41.m3u8
-
-#EXTINF:-1 group-title="MOVIES",AXN
-http://103.179.182.117:6768/hls/64/64.m3u8
-
-#EXTINF:-1 group-title="MOVIES",CINEMA WORLD
-http://103.179.182.117:6768/hls/67/67.m3u8
-
-#EXTINF:-1 group-title="MOVIES",CELESTIAL
-http://103.179.182.117:6768/hls/68/68.m3u8
-
-#EXTINF:-1 group-title="MOVIES",TVN
-http://103.179.182.117:6768/hls/72/72.m3u8
-
-#EXTINF:-1 group-title="MOVIES",TVN MOVIES
-http://103.179.182.117:6768/hls/73/73.m3u8
-
-#EXTINF:-1 group-title="MOVIES",K+
-http://103.179.182.117:6768/hls/83/83.m3u8
-
-#EXTINF:-1 group-title="MOVIES",MAXSTREAM
-http://103.179.182.117:6768/hls/76/76.m3u8
-
-#EXTINF:-1 group-title="MOVIES",THRILL
-http://103.179.182.117:6768/hls/90/90.m3u8
-
-#EXTINF:-1 group-title="MOVIES",CHINESE DRAMA
-http://103.179.182.117:6768/hls/92/92.m3u8
-
-=======SPORTS=======
-#EXTINF:-1 group-title="SPORTS",TVRI SPORT
-http://103.179.182.117:6768/hls/49/49.m3u8
-
-#EXTINF:-1 group-title="SPORTS",VOLI 
-http://103.179.182.117:6768/hls/2/2.m3u8
-
-#EXTINF:-1 group-title="SPORTS",SPOTV1
-http://103.179.182.117:6768/hls/15/15.m3u8
-
-#EXTINF:-1 group-title="SPORTS",SPOTV2
-http://103.179.182.117:6768/hls/86/86.m3u8
-
-#EXTINF:-1 group-title="SPORTS",FIGHT SPORTS
-http://103.179.182.117:6768/hls/16/16.m3u8
-
-#EXTINF:-1 group-title="SPORTS",CHAMPIONTV 1
-http://103.179.182.117:6768/hls/66/66.m3u8
-
-#EXTINF:-1 group-title="SPORTS",CHAMPIONSTV 2
-http://103.179.182.117:6768/hls/88/88.m3u8
-
-#EXTINF:-1 group-title="SPORTS",CHAMPIONSTV 5
-http://103.179.182.117:6768/hls/21/21.m3u8
-
-#EXTINF:-1 group-title="SPORTS",CHAMPIONSTV 6
-http://103.179.182.117:6768/hls/94/94.m3u8
-
-#EXTINF:-1 group-title="SPORTS",NBA
-http://103.179.182.117:6768/hls/25/25.m3u8
-
-#EXTINF:-1 group-title="SPORTS",WSPORT
-http://103.179.182.117:6768/hls/62/62.m3u8
+#EXTM3U
+
+#EXTINF:-1,Channel ANTV
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/1
+#EXTINF:-1,Channel BN
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/2
+#EXTINF:-1,Channel BTV
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/3
+#EXTINF:-1,Channel CNBC
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/4
+#EXTINF:-1,Channel CNN
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/5
+#EXTINF:-1,Channel GARUDATV
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/7
+#EXTINF:-1,Channel GTV
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/9
+#EXTINF:-1,Channel INDOSIAR
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/11
+#EXTINF:-1,Channel INEWS
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/12
+#EXTINF:-1,Channel INSPIRA
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/13
+#EXTINF:-1,Channel JAKTV
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/14
+#EXTINF:-1,Channel JAWA POS
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/15
+#EXTINF:-1,Channel KOMPAS TV
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/16
+#EXTINF:-1,Channel KTV
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/17
+#EXTINF:-1,Channel MAGNA
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/18
+#EXTINF:-1,Channel MDTV
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/19
+#EXTINF:-1,Channel MENTARI
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/20
+#EXTINF:-1,Channel METRO TV
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/21
+#EXTINF:-1,Channel MNCTV
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/22
+#EXTINF:-1,Channel MOJI
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/23
+#EXTINF:-1,Channel RCTI
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/26
+#EXTINF:-1,Channel AJWA TV
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/27
+#EXTINF:-1,Channel RODJA TV
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/28
+#EXTINF:-1,Channel VTV
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/29
+#EXTINF:-1,Channel SCTV
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/30
+#EXTINF:-1,Channel SMILE
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/32
+#EXTINF:-1,Channel TRANS 7
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/33
+#EXTINF:-1,Channel TRANS TV
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/34
+#EXTINF:-1,Channel TV ONE
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/36
+#EXTINF:-1,Channel UGTV
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/39
+#EXTINF:-1,Channel VTV
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/40
+#EXTINF:-1,Channel AXN
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/42
+#EXTINF:-1,Channel CELESTIAL
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/43
+#EXTINF:-1,Channel 47
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/47
+#EXTINF:-1,Channel CINEMAX
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/48
+#EXTINF:-1,Channel GALAXY
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/50
+#EXTINF:-1,Channel GALAXY PREMIUM
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/51
+#EXTINF:-1,Channel HBO
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/52
+#EXTINF:-1,Channel HBO FAMILY
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/53
+#EXTINF:-1,Channel HBO HITS
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/54
+#EXTINF:-1,Channel HBO SIGNATURE
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/55
+#EXTINF:-1,Channel HITS
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/56
+#EXTINF:-1,Channel THRILL
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/57
+#EXTINF:-1,Channel HITS MOVIE
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/58
+#EXTINF:-1,Channel KIX
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/63
+#EXTINF:-1,Channel WB TV
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/68
+#EXTINF:-1,Channel 69
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/69
+#EXTINF:-1,Channel 70
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/70
+#EXTINF:-1,Channel 71
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/71
+#EXTINF:-1,Channel BEIN 1
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/72
+#EXTINF:-1,Channel BEIN 2
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/73
+#EXTINF:-1,Channel BEIN 3
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/74
+#EXTINF:-1,Channel BEIN 4
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/75
+#EXTINF:-1,Channel BEIN 5
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/76
+#EXTINF:-1,Channel FIGTH
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/77
+#EXTINF:-1,Channel 80
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/80
+#EXTINF:-1,Channel SOCCER
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/81
+#EXTINF:-1,Channel SPORTSTARS
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/82
+#EXTINF:-1,Channel 83
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/83
+#EXTINF:-1,Channel 84
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/84
+#EXTINF:-1,Channel 85
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/85
+#EXTINF:-1,Channel 86
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/86
+#EXTINF:-1,Channel TVRI SPORT
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/87
+#EXTINF:-1,Channel 88
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/88
+#EXTINF:-1,Channel 89
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/89
+#EXTINF:-1,Channel 90
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/90
+#EXTINF:-1,Channel 91
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/91
+#EXTINF:-1,Channel TRUESPORTS 1
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/92
+#EXTINF:-1,Channel TRUESPORTS 2
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/93
+#EXTINF:-1,Channel TRUESPORTS 3
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/94
+#EXTINF:-1,Channel ASTRO
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/120
+#EXTINF:-1,Channel ARIRANG
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/124
+#EXTINF:-1,Channel FASHIONTV
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/131
+#EXTINF:-1,Channel LIFETIME
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/136
+#EXTINF:-1,Channel CNA
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/149
+#EXTINF:-1,Channel NHK
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/156
+#EXTINF:-1,Channel DISCOVERY ASIA
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/164
+#EXTINF:-1,Channel HISTORY
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/167
+#EXTINF:-1,Channel LOVE NATURE
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/168
+#EXTINF:-1,Channel ANIMAX
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/169
+#EXTINF:-1,Channel CARTOONITO
+https://iptv.lancartech.co.id:443/Farhan@90/18062025/173

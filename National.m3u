@@ -217,8 +217,10 @@ https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&userid=li
 
 
 #EXTINF:-1 tvg-id="MetroTV.IPTV" tvg-name="MetroTV.IPTV" group-title="TV NASIONAL" tvg-logo="https://iptvsystem.my.id/img/metrotv.png",METRO TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&userid=lite&chname=Metro_TV
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
+https://atemeshield1-voe.sysln.id/live/eds/MetroTVHD/mediampd/MetroTVHD.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

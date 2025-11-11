@@ -196,12 +196,10 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
 #EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://iptvsystem.my.id/img/antv.png" group-title="TV NASIONAL",ANTV 
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
+#EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg5NjQ3OTksImV4cCI6MTc1OTAwNzk5OSwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIyYTA5OmJhYzU6MzllMjoxOGQyOjoyNzk6ODYifX0.4PmdfYMG24lqeIe7dY3PaqL1nUHuaJ3arioNthXy-pg", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg5NjQ3OTksImV4cCI6MTc1OTAwNzk5OSwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIyYTA5OmJhYzU6MzllMjoxOGQyOjoyNzk6ODYifX0.VdFZeoT8xLu7kjOupz6ECNVBcfPENS5VGrb4MUOHC1s"}
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://gooo.blog/opix/genx.m3u8?id=antv&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg5NjQ3OTksImV4cCI6MTc1OTAwNzk5OSwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIyYTA5OmJhYzU6MzllMjoxOGQyOjoyNzk6ODYifX0.4PmdfYMG24lqeIe7dY3PaqL1nUHuaJ3arioNthXy-pg
 
 
 #EXTINF:-1 tvg-id="17" tvg-logo="https://iptvsystem.my.id/img/kompastv.png" group-title="TV NASIONAL", KOMPAS TV

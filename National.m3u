@@ -16,8 +16,9 @@ https://atemeshield1-voe.sysln.id/live/eds/Trans7HD/mediampd/Trans7HD.mpd
 
 
 #EXTINF:-1 tvg-id="Trans7.my.id" tvg-name="Trans 7" tvg-logo="https://iptvsystem.my.id/img/trans7.png" group-title="TV NASIONAL", TRANS 7 DIGITAL
-http://aromatv.co:80/Enjy3637/4JFEBAs359/444141
+#http://aromatv.co:80/Enjy3637/4JFEBAs359/444141
 #http://203.77.246.58:4500/udp/239.1.3.220:5000
+http://103.46.10.145:9981/stream/channelid/2132733942?ticket=B88E6FE9C3A70B477C091238B68BAAA31F99831C&profile=pass
 
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -158,7 +159,8 @@ http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
 #KODIPROP:mimetype=video/mp2t
 #KODIPROP:inputstream.ffmpegdirect.program_number=350997
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-http://aromatv.co:80/Enjy3637/4JFEBAs359/444139
+#http://aromatv.co:80/Enjy3637/4JFEBAs359/444139
+http://103.46.10.145:9981/stream/channelid/2068418811?ticket=F6A638CAE3935CAFE3EF877AC34403F7AF116910&profile=pass
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
@@ -178,7 +180,8 @@ https://atemeshield1-voe.sysln.id/live/eds/SCTVHD/mediampd/SCTVHD.mpd
 
 #EXTINF:-1 tvg-id="SCTV.IPTV" tvg-name="SCTV.IPTV" group-title="TV NASIONAL" tvg-logo="https://iptvsystem.my.id/img/sctv.png",SCTV DIGITAL
 #https://dickgital.semar.my.id/fetch?id=sdigital.m3u8&auth=sdgtlsemar25&url=up
-http://aromatv.co:80/Enjy3637/4JFEBAs359/444140
+#http://aromatv.co:80/Enjy3637/4JFEBAs359/444140
+http://103.46.10.145:9981/stream/channelid/234454183?ticket=EF661CC1FB79379E5340F3123071DE0EA418DF31&profile=pass
 
 
 #EXTINF:-1 tvg-id="CNNIndonesia.IPTV" tvg-name="CNNIndonesia.IPTV" group-title="TV NASIONAL" tvg-logo="https://iptvsystem.my.id/img/cnnindonesia.png",CNN Indonesia
@@ -233,7 +236,8 @@ https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mediampd/MOJIOChannel.mp
 
 #EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/moji.png" group-title="TV NASIONAL", MOJI DIGITAL
 #https://dickgital.semar.my.id/fetch?id=mlg.m3u8&auth=mlgsemar25
-http://aromatv.co:80/Enjy3637/4JFEBAs359/444150
+#http://aromatv.co:80/Enjy3637/4JFEBAs359/444150
+http://103.46.10.145:9981/stream/channelid/1687232794?ticket=263AE984B301239602755A78F23AB29A0E3F41BE&profile=pass
 
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1

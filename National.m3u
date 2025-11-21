@@ -27,7 +27,7 @@ http://103.46.10.145:9981/stream/channelid/2132733942?ticket=B88E6FE9C3A70B477C0
 
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-id="Trans7.id" tvg-logo="https://iptvsystem.my.id/img/trans7.png",TRANS 7 INDIHOME
-#https://cdn11jtedge.indihometv.com/atm/DASH/trans7/manifest.mpd
+https://cdn11jtedge.indihometv.com/atm/DASH/trans7/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/trans7.png" group-title="TV NASIONAL", TRANS 7 TRANSVISION

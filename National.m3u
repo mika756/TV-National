@@ -27,7 +27,8 @@ http://103.46.10.145:9981/stream/channelid/2132733942?ticket=B88E6FE9C3A70B477C0
 
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-id="Trans7.id" tvg-logo="https://iptvsystem.my.id/img/trans7.png",TRANS 7 INDIHOME
-https://cdn10jtedge.indihometv.com/atm/DASH/trans7/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://drm.indihometv.com/drmgateway/v1/drm/widevine/license?drmLicenseToken=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIiwia2lkIjpudWxsfQ.l1E6VCLEkP4YZ4YWZd9typErUqFJ5dXSqApv53gKst4iY9ziLSX8NQ._Xxx0VPXOXFyoUMP.oZdFwvsVMjkBZX8wXuJ0sT0XmJdRe2P1jRHaVaoY6WA8PUiSptQbV7mtWS1cHmjbGEEsVoL2SJk875lMRzNjquU5y_oKn0MZhH975I4aWNylLAOa_ApMPDNHnpqHt3edwiOoibm_XznMDj2bsSkwuqwgQwQpqNHSwrO8b_mAiNEK7mntg-YpZKxHbgzI0Tq_v2zdfReYmyMpGGHTmCI-WXcKErPOcreB1IDBEadOuPwn-fSs5FTCCgfGcZZExVFvCkM9fGpugFS1cQX1e444u35NEutrOd9v_rA4h4HMU2OXkjEownlkTLR7WeZUaAP3lVpoSmbMjP4AXIVAM498uvJsSuVCgleq9vNuFSE1_2lPEL926zAMUrbnFMEklULHYWiG5R-6Pr_lWDnMQevyejB4_B6jemvWLryU-m2SCD4nMMS9.tsm_FuNTu_9t-9v1_wyY_g
+https://cdn11jtedge.indihometv.com/atm/DASH/trans7/manifest.mpd
 
 
 #EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/trans7.png" group-title="TV NASIONAL", TRANS 7 TRANSVISION

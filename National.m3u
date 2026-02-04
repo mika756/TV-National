@@ -104,7 +104,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/in
 #EXTINF:-1 tvg-id="Lokal" tvg-logo="https://raw.githubusercontent.com/riotryulianto/iptv-playlists/refs/heads/main/icons/mentaritv.png" group-title="TV NASIONAL",MENTARI
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
-https://vidd.semar.my.id/biasa.mpd?id=8237&type=dash
+https://vidx.semar.my.id/biasa2.mpd?id=8237&type=dash
 
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-id="vtv.id" tvg-logo="https://warningfm.github.io/v3/img/sbt6Zwy.png",VTV

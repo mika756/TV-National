@@ -119,7 +119,7 @@ https://gooo.blog/opix/genx.m3u8?id=vtv&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 https://khano.nng.cloudns.us/live/m3u8/id/575eeb9f08dc8db.m3u8
-http://103.170.33.11:9981/stream/channelid/1003734703?profile=pass
+https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="Indosiar.IPTV" tvg-name="Indosiar.IPTV" tvg-logo="https://iptvsystem.my.id/img/indosiar.png" group-title="TV NASIONAL", INDOSIAR DIGITAL

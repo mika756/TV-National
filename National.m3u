@@ -202,8 +202,9 @@ https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mediampd/MOJIOChannel.mp
 
 
 #EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/moji.png" group-title="TV NASIONAL", MOJI DIGITAL
-http://103.170.33.11:9981/stream/channelid/1896622786?profile=pass
-
+http://103.66.62.83:8000/play/a00i/index.m3u8
+http://103.66.62.83:8000/play/a02c/index.m3u8
+http://202.169.224.202:8800/udp/239.9.1.32:1234
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="BTV.id" tvg-name="BTV" tvg-logo="https://iptvsystem.my.id/img/btv.png" group-title="TV NASIONAL", BTV

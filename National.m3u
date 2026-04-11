@@ -20,7 +20,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/trans7/manifest_wuseetv.mpd
 
 
 #EXTINF:-1 tvg-id="Trans7.my.id" tvg-name="Trans 7" tvg-logo="https://iptvsystem.my.id/img/trans7.png" group-title="TV NASIONAL", TRANS 7 DIGITAL
-#http://103.172.71.153:9981/stream/channelid/2040670210?profile=pass
+http://103.58.160.157:8278/720-TRANS7/playlist.m3u8
 
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/

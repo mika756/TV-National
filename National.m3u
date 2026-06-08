@@ -167,9 +167,10 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://iptvsystem.my.id/img/antv.png" group-title="TV NASIONAL",ANTV 
-#EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg5NjQ3OTksImV4cCI6MTc1OTAwNzk5OSwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIyYTA5OmJhYzU6MzllMjoxOGQyOjoyNzk6ODYifX0.4PmdfYMG24lqeIe7dY3PaqL1nUHuaJ3arioNthXy-pg", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg5NjQ3OTksImV4cCI6MTc1OTAwNzk5OSwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIyYTA5OmJhYzU6MzllMjoxOGQyOjoyNzk6ODYifX0.VdFZeoT8xLu7kjOupz6ECNVBcfPENS5VGrb4MUOHC1s"}
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://gooo.blog/opix/genx.m3u8?id=antv&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg5NjQ3OTksImV4cCI6MTc1OTAwNzk5OSwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIyYTA5OmJhYzU6MzllMjoxOGQyOjoyNzk6ODYifX0.4PmdfYMG24lqeIe7dY3PaqL1nUHuaJ3arioNthXy-pg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+https://vidx.semar.my.id/biasa2.mpd?id=782&type=dash
 
 
 #EXTINF:-1 tvg-id="17" tvg-logo="https://iptvsystem.my.id/img/kompastv.png" group-title="TV NASIONAL", KOMPAS TV
@@ -181,9 +182,11 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/in
 
 
 #EXTINF:-1 tvg-id="TVOne.IPTV" tvg-name="TVOne.IPTV" group-title="TV NASIONAL" tvg-logo="https://iptvsystem.my.id/img/tvone.png",TVONE
-#EXTHTTP:{"Authorization":"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg5NjQ3OTksImV4cCI6MTc1OTAwNzk5OSwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIyYTA5OmJhYzU6MzllMjoxOGQyOjoyNzk6ODYifX0.4PmdfYMG24lqeIe7dY3PaqL1nUHuaJ3arioNthXy-pg", "X-TOKEN":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg5NjQ3OTksImV4cCI6MTc1OTAwNzk5OSwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIyYTA5OmJhYzU6MzllMjoxOGQyOjoyNzk6ODYifX0.VdFZeoT8xLu7kjOupz6ECNVBcfPENS5VGrb4MUOHC1s"}
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://gooo.blog/opix/genx.m3u8?id=tvone&cyev=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3NTg5NjQ3OTksImV4cCI6MTc1OTAwNzk5OSwiZGF0YSI6eyJ1c2VyIjoiYmFkc2kiLCJjbGllbnRfaXAiOiIyYTA5OmJhYzU6MzllMjoxOGQyOjoyNzk6ODYifX0.4PmdfYMG24lqeIe7dY3PaqL1nUHuaJ3arioNthXy-pg
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eab667a8f7f14ff7bf00d790314a10f0:1d6693bc942f036053fc1c3c3b3b5032
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd
 
 
 #EXTINF:-1 tvg-id="MetroTV.IPTV" tvg-name="MetroTV.IPTV" group-title="TV NASIONAL" tvg-logo="https://iptvsystem.my.id/img/metrotv.png",METRO TV
@@ -201,16 +204,17 @@ http://khano.nng.cloudns.us/live/m3u8/id/590642f0a31efa4.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/moji.png" group-title="TV NASIONAL", MOJI 
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-origin=https://www.vidio.com
-https://ratu77.adptv.workers.dev/index.mpd?id=206&type=dash
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/moji.png" group-title="TV NASIONAL", MOJI DIGITAL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
 https://wahyu1ptv.pages.dev/Moji-HD.m3u8
+
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="BTV.id" tvg-name="BTV" tvg-logo="https://iptvsystem.my.id/img/btv.png" group-title="TV NASIONAL", BTV

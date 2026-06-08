@@ -210,10 +210,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/moji.png" group-title="TV NASIONAL", MOJI DIGITAL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-https://wahyu1ptv.pages.dev/Moji-HD.m3u8
+https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C85t_z0_MBwZtd69IGhbSfdg/ts
 
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1

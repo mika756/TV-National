@@ -104,11 +104,11 @@ https://sports.inisemar.my.id/get.php?id=inews.m3u8&auth=inewssemar25
 
 
 #EXTINF:-1 tvg-id="Lokal" tvg-logo="https://object-streamo.emonaja.com/img/mentaritv.png" group-title="TV NASIONAL",MENTARI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=340ff241ff754b038f07096e17104cdc:839bdf4f1523661ba61df2dc219878a3
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
-
 
 #EXTINF:-1 group-title="TV NASIONAL" tvg-id="vtv.id" tvg-logo="https://object-streamo.emonaja.com/img/vtv.png",VTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36

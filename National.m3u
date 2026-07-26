@@ -179,8 +179,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/in
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://streamo.web.id/api/1/post/license/iptvsys/20
 #EXTINF:-1 tvg-id="RTV.IPTV" tvg-name="RTV.IPTV" group-title="TV NASIONAL" tvg-logo="https://object-streamo.emonaja.com/img/rtv.png",RTV
-#https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8
-http://khano.nng.cloudns.us/live/m3u8/id/590642f0a31efa4.m3u8
+https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://object-streamo.emonaja.com/img/moji.png" group-title="TV NASIONAL", MOJI 

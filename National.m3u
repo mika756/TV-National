@@ -59,10 +59,11 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/in
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
 
-#EXTINF:-1 tvg-id="RCTI.IPTV" tvg-name="RCTI.IPTV" group-title="TV NASIONAL" tvg-logo="https://object-streamo.emonaja.com/img/RCTI.png",RCTI
+#EXTINF:-1 tvg-id="RCTI.IPTV" tvg-name="RCTI.IPTV" group-title="TV NASIONAL" tvg-logo="https://object-streamo.emonaja.com/img/RCTI.png",RCTI R+
+#EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rct
+https://rpluz.ben45mcc.workers.dev/index.m3u8?ch=rcti
 
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha

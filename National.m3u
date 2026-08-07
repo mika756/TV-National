@@ -116,10 +116,12 @@ https://flv.intechmedia.net/live/ch107.m3u8
 #https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="Indosiar.IPTV" tvg-name="Indosiar.IPTV" group-title="TV NASIONAL" tvg-logo="https://object-streamo.emonaja.com/img/indosiar.png",INDOSIAR
-https://cdnbal1.indihometv.com/atm/DASH/indosiar/indosiar-avc1_2500000=7-3277707030000000.mpd
+EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://sports.inisemar.my.id/ck.php?id=indosiar
+https://vidsemar.pages.dev/terraluna/205.mpd
 
 
 #EXTINF:-1 tvg-id="Indosiar.IPTV" tvg-name="Indosiar.IPTV" tvg-logo="https://object-streamo.emonaja.com/img/indosiar.png" group-title="TV NASIONAL", INDOSIAR DIGITAL
